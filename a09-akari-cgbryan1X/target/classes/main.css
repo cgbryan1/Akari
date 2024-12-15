@@ -1,0 +1,69 @@
+/**
+ * Write CSS code in this file to style your JavaFX user interface
+ *
+ * Note: You must link this file to your scene object by adding the following line of code to the
+ * JavaFX start() method:
+ *   scene.getStylesheets().add("main.css");
+ */
+
+ .game-board .wall {
+    -fx-background-color: #00021E;
+ }
+ .game-board .lamp {
+    -fx-background-color: #ffed29;
+ }
+ .game-board .lit {
+      -fx-background-color: #FFFFED;
+ }
+
+ .game-board .illegal-lamp {
+     -fx-background-color: #FF474C;
+ }
+ .game-board .unlit {
+         -fx-background-color: #D3D3D3;
+ }
+ .game-board .clue {
+    -fx-font-size: 20px;
+    -fx-background-color: #BEE3BA;
+ }
+ .game-board .game-board {
+    -fx-background-color: #FFFFED;
+    -fx-grid-lines-visible: true;
+    -fx-alignment: center;
+ }
+
+ .control-panel .control-button {
+    -fx-background-color: #FFFFED;
+    -fx-font-size: 15px;
+ }
+ .control-panel {
+    -fx-alignment: center;
+    -fx-spacing: 90px;
+    -fx-background-color: #FFFFED;
+ }
+  .control-panel .title {
+     -fx-font-size: 50px;
+     -fx-text-fill: #000000;
+  }
+
+  .win-message {
+     -fx-alignment: center;
+     -fx-text-alignment: center;
+     -fx-text-fill: #000000;
+  }
+  .puzzle-number-display {
+       -fx-alignment: center;
+       -fx-text-alignment: center;
+       -fx-text-fill: #000000;
+    }
+
+.puzzle-tracker-row{
+    -fx-background-color: #FFFFED;
+    -fx-alignment: center;
+    -fx-padding: 7px;
+}
+
+.message-holder{
+    -fx-alignment: center;
+    -fx-background-color: #FFFFED;
+}

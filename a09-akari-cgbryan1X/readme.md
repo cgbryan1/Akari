@@ -6,10 +6,7 @@ In this project, I used the model-view-controller design pattern together with t
 
 This project was completed for Dr. Prairie Goodwin's COMP 301 at UNC Chapel Hill, with some starter code (optional interfaces and suggested steps) provided. Model, Puzzle, and Controller interfaces were provided as well as standard JavaFX interfaces. Parts of this ReadMe are excerpted from the original project's ReadMe.
 
-These are the web resources I used to plan my project:
-[The Akari Wikipedia page](https://en.wikipedia.org/wiki/Light_Up_(puzzle))
-
-[Practice Akari puzzles](https://www.puzzle-light-up.com/)
+I also used [The Akari Wikipedia page](https://en.wikipedia.org/wiki/Light_Up_(puzzle)) and [Practice Akari puzzles](https://www.puzzle-light-up.com/) as references for this project.
 
 
 ## Running the application

@@ -15,12 +15,9 @@ This project uses Maven as a build manager, and JavaFX as a GUI library. JavaFX 
 
 To run the application with Maven in IntelliJ, follow these steps:
 
-1. Click the vertical "Maven" expansion tab which is on the right side of the IntelliJ window.
-
+1. Click the vertical "Maven" expansion tab
 2. Expand the "Plugins" folder.
-
 3. Expand the "javafx" folder.
-
 4. Double-click "javafx:run" to run the project.
 
 

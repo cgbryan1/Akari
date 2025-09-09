@@ -4,7 +4,7 @@
 
 In this project, I used the model-view-controller design pattern together with the JavaFX UI library to design a complete, functioning GUI implementation of the single-player logic puzzle akari. This app allows users to play akari and solve a variety of built-in puzzles. 
 
-This project was completed for Dr. Prairie Goodwin's COMP 301 at UNC Chapel Hill, with some starter code (optional interfaces and suggested steps) provided. Model, Puzzle, and Controller interfaces were provided as well as standard JavaFX interfaces. Parts of this ReadMe are excerpted from the original project's ReadMe.
+This project was completed for COMP 301 at UNC Chapel Hill, with some starter code (optional interfaces and suggested steps) provided. Model, Puzzle, and Controller interfaces were provided as well as standard JavaFX interfaces. Parts of this ReadMe are excerpted from the original project's ReadMe.
 
 I also used [The Akari Wikipedia page](https://en.wikipedia.org/wiki/Light_Up_(puzzle)) and [Practice Akari puzzles](https://www.puzzle-light-up.com/) as references for this project.
 
